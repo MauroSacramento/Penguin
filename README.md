@@ -17,7 +17,7 @@ Este projeto é uma representação visual de um Penguín criada exclusivamente 
 <br>
 
 <p align="center">
-  <img alt="projeto Skyline" src="sky.png" width="80%">
+  <img alt="projeto Penguín" src="assets/penguin.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto inspirado em cidades modernas e paisagens urbanas, este projeto foi desenvolvido para demonstrar o uso criativo do CSS na construção de visuais interativos e dinâmicos.
 
-- [Acesse o projeto finalizado, online](https://maurosacramento.github.io/City-Skyline/)
+- [Acesse o projeto finalizado, online]
 
 
 ## :memo: Licença

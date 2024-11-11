@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto inspirado em cidades modernas e paisagens urbanas, este projeto foi desenvolvido para demonstrar o uso criativo do CSS na construção de visuais interativos e dinâmicos.
+O resultado foi uma página web leve, estilosa e didática, onde um pinguim simpático é exibido inteiramente com CSS, provando as possibilidades criativas e flexíveis da linguagem. Este projeto é um ótimo exemplo de como o CSS pode ser explorado para criar gráficos complexos e personagens lúdicos sem a necessidade de imagens externas.
 
 - [Acesse o projeto finalizado, online]
 
